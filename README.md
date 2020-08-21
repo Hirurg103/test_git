@@ -1,1 +1,1 @@
-# test_git (version 1.0)
+# test git (version 2.0)
